@@ -5,10 +5,6 @@ import App from "./components/App";
 ReactDOM.render(<App />, document.getElementById("root"));
 
 //CHALLENGE:
-// 0. Create git repo and init it with this startup project
-// commits and push the changes to to github (all the qway)
-
-
 //1. Implement the add note functionality.
 //- Create a constant that keeps track of the title and content.
 //- Pass the new note back to the App.
