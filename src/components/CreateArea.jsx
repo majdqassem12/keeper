@@ -17,7 +17,6 @@ function CreateArea(props) {
       title: nTitle,
       content: nContent
     });
-
   }
   return (
     <div>
